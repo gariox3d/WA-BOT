@@ -1,0 +1,27 @@
+[
+ {
+  "id": 0,
+  "url": "tautan foto", 
+  "url2": "tautan foto2"
+ }, {
+  "id": 1,
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuArOAE7jGAEH6TgaXaxuTxGWL0J7jMYxMuVaaMrgOrVA82hRXFZxamCo&s=10", 
+  "url2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfpcFfCqQVOF3-y4wvo9LVEZNaSqkkuKci_RbwJrKr9Gu4zXC_L_GYL0&s=10"
+ }, { 
+  "id": 2,
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbl27tx1liTmMZprsINaDkgIq2iNP25JtjG5IsGN4m37aDeMxfGlMnLOY&s=10", 
+  "url2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbl27tx1liTmMZprsINaDkgIq2iNP25JtjG5IsGN4m37aDeMxfGlMnLOY&s=10"
+ }, {
+  "id": 3,
+  "url": "https://i.pinimg.com/736x/38/d4/cf/38d4cfa336b65ce1b613ca6fcb04c825.jpg", 
+  "url2": "https://i.pinimg.com/736x/86/ae/98/86ae98d9760276a5fc5658a4074c77d5.jpg"
+ }, {
+  "id": 4,
+  "url": "https://i.pinimg.com/736x/1d/e8/8e/1de88ea84994c095a6574550b71a236d.jpg", 
+  "url2": "https://i.pinimg.com/736x/53/d3/f7/53d3f72820eca1bc987b9aacb1758bc2.jpg"
+ }, {
+ "id": 5,
+ "url": "https://i.pinimg.com/736x/eb/0f/ea/eb0feadc9df740dcaaee8e193a9aa548.jpg", 
+ "url2": "https://i.pinimg.com/736x/f8/89/c2/f889c2e7f93ab4ec865e8fc6be7af65d.jpg"
+ }
+]
